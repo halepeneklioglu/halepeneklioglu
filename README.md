@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @halepeneklioglu
+- 👋 Hi, I’m Hale
 - 👀 I’m interested in data science, Python programming, machine learning, and AI
 - 🌱 I’m currently learning data analysis with Python
 - 💞️ I’m looking to collaborate on data science projects of any kind :)
